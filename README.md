@@ -1,3 +1,3 @@
 # robotwiimote
 Python program than enables the use of a wiimote (bluetooth) with a piZero, to control an L298 motor controller. 
-This program uses the CWiid pythob library.
+This program uses the CWiid python library.
